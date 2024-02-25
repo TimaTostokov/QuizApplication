@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731986461403",
+    "project_id": "quizonline-8e46a",
+    "storage_bucket": "quizonline-8e46a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731986461403:android:7f0242e3a07dd1941d82fe",
+        "android_client_info": {
+          "package_name": "jolchu.tolik.quizapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFPmtuWmGzK1CnrCIi_iPrqkr88DIdmO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
